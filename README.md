@@ -1,52 +1,61 @@
-HR Analytics Dashboard – Employee Attrition Analysis
-About the Project
+🎯 Project Goal
 
-I created an HR Analytics Dashboard in Power BI to study and understand employee attrition in a company. The main goal of this project is to help the HR team and management easily see how many employees are leaving, why they are leaving, and which groups are most affected.
+To give HR teams and business owners a smart, visual way to explore attrition data — by age, salary, education, and time — and help reduce employee turnover through real insights.
 
-This dashboard gives a clear picture of the company’s employee turnover and helps in making better decisions to improve employee retention.
+📊 What You’ll Find Inside
 
-What This Dashboard Shows
+🔹 Overall Attrition Rate
+See how many employees left the company and what percentage that represents.
 
-Overall Attrition Rate: Total number of employees who left the company.
+🔹 Yearly Attrition Trend
+Watch the attrition trend change year-by-year — are things getting better or worse?
 
-Attrition Percentage: Percentage of employees who left compared to the total number of employees.
+🔹 Ranking-wise Attrition
+Find out which departments or job titles are losing people the fastest.
 
-Yearly Attrition: How attrition has changed year by year.
+🔹 Salary-based Attrition
+Discover whether low or high salary groups are more likely to leave.
 
-Ranking-wise Attrition: Which departments or job positions have the highest attrition.
+🔹 Education-wise Attrition
+Understand how qualification levels affect retention.
 
-Salary-based Attrition: Whether employees with certain salary ranges are leaving more often.
+🔹 Age Group-wise Attrition
+Spot which age groups have higher exit rates — younger, mid-level, or senior employees?
 
-Education-wise Attrition: Attrition comparison based on employees’ education levels.
+⚙️ Tools & Techniques
 
-Age Group-wise Attrition: Which age groups are leaving the company more frequently.
+🧠 Power BI Desktop – for data modeling, DAX measures, and visualization
+📂 Excel/CSV Files – as data sources
+📈 DAX Calculations – to compute attrition rate, ranking, and comparisons
+🎨 Interactive Visuals – bar charts, line charts, slicers, and filters for real-time exploration
 
-Tools and Techniques Used
+💡 Key Insights
 
-Power BI Desktop for dashboard creation and data visualization.
+✅ Departments with the highest attrition are clearly highlighted.
+✅ Salary, education, and age trends reveal hidden patterns behind employee turnover.
+✅ Yearly comparison helps HR track whether retention strategies are working.
+✅ Owners and managers can take faster, data-backed actions to reduce attrition.
 
-Excel or CSV files as the main data source.
+👥 Who It’s For
 
-DAX formulas to calculate attrition rate, percentage, and rankings.
+HR Department – to understand and control employee turnover.
 
-Different types of charts and slicers to make the dashboard interactive and easy to understand.
+Management/Owners – to make smart, data-based decisions.
 
-Key Insights and Benefits
+Data Enthusiasts – to explore how Power BI can transform HR data into insights.
 
-It helps HR and the company owner clearly see which areas have high employee turnover.
+🧩 Project Details
 
-Shows whether age, education, or salary levels are related to employees leaving.
+Project Title: HR Analytics Dashboard – Attrition Analysis
 
-Gives data-driven insights to plan new HR strategies and reduce attrition.
+Platform: Power BI
 
-Makes it easy to track changes in employee retention over the years.
+Created by: Tapender Singh
 
-Project Information
+Category: HR / Business Intelligence / Data Visualization
 
-Project Name: HR Analytics Dashboard – Attrition Analysis
+Goal: Turning HR data into meaningful insights
 
-Tool Used: Power BI
+🚀 Experience It!
 
-Created by: [Your Name]
-
-Purpose: To help HR and management understand attrition trends and improve retention.
+This dashboard is fully interactive — filter by year, department, education, or salary to instantly see how attrition changes across categories.
