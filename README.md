@@ -58,4 +58,4 @@ Goal: Turning HR data into meaningful insights
 
 🚀 Experience It!
 
-This dashboard is fully interactive — filter by year, department, education, or salary to instantly see how attrition changes across categories.
+This dashboard is fully interactive — filtered by department,  year,education, or salary to instantly see how attrition changes across categories.
